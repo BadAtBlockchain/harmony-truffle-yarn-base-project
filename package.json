@@ -33,11 +33,11 @@
     "solc": "0.6.12",
     "ts-node": "^8.5.4",
     "typescript": "^3.7.3",
-    "@ethersproject/solidity": "^5.1.0",
+    "@ethersproject/solidity": "^5.4.0",
     "dotenv": "^8.2.0"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^3.1.0",
+    "@openzeppelin/contracts": "^4.2.0",
     "@harmony-js/core": "^0.1.57",
     "@harmony-js/utils": "^0.1.56",
     "truffle": "^5.1.41",

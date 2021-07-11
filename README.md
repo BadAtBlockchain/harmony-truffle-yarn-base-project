@@ -6,6 +6,8 @@ Yarn
 Solidity  
 TypeScript  
   
+Uses Solidity ^0.8.0 by default.  
+  
 ## Typical Usage  
   
 Clone this repository, develop the contract + tests.  
